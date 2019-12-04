@@ -1,0 +1,29 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Splash Copy.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Splash Copy@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Splash Copy@3x.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "Splash Copy@3x-1.png",
+      "subtype" : "2436h",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
