@@ -17,7 +17,7 @@
     "awesome-phonenumber": "^2.19.0",
     "axios": "^0.19.0",
     "google-libphonenumber": "^3.2.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "react": "16.9.0",
     "react-native": "0.61.1",
